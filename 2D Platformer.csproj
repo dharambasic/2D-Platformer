@@ -80,6 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\LevelMenager.cs" />
+    <Compile Include="Assets\Scripts\MusicPlayer.cs" />
     <Compile Include="Assets\Scripts\Novcic.cs" />
     <Compile Include="Assets\Scripts\PadNaGranicu.cs" />
     <Compile Include="Assets\Scripts\PadPlatforme.cs" />
